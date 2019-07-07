@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-pdf-reader/static/css/main.e2ba8f57.chunk.css",
-  "main.js": "/react-pdf-reader/static/js/main.289cdcec.chunk.js",
-  "main.js.map": "/react-pdf-reader/static/js/main.289cdcec.chunk.js.map",
-  "static/js/1.e9998240.chunk.js": "/react-pdf-reader/static/js/1.e9998240.chunk.js",
-  "static/js/1.e9998240.chunk.js.map": "/react-pdf-reader/static/js/1.e9998240.chunk.js.map",
-  "runtime~main.js": "/react-pdf-reader/static/js/runtime~main.1a0cd85c.js",
-  "runtime~main.js.map": "/react-pdf-reader/static/js/runtime~main.1a0cd85c.js.map",
-  "static/css/main.e2ba8f57.chunk.css.map": "/react-pdf-reader/static/css/main.e2ba8f57.chunk.css.map",
-  "index.html": "/react-pdf-reader/index.html",
-  "precache-manifest.859e3162a489c4aadc2dc441f47a9324.js": "/react-pdf-reader/precache-manifest.859e3162a489c4aadc2dc441f47a9324.js",
-  "service-worker.js": "/react-pdf-reader/service-worker.js"
+  "main.css": "/react-pdf/static/css/main.e2ba8f57.chunk.css",
+  "main.js": "/react-pdf/static/js/main.94141931.chunk.js",
+  "main.js.map": "/react-pdf/static/js/main.94141931.chunk.js.map",
+  "static/js/1.e9998240.chunk.js": "/react-pdf/static/js/1.e9998240.chunk.js",
+  "static/js/1.e9998240.chunk.js.map": "/react-pdf/static/js/1.e9998240.chunk.js.map",
+  "runtime~main.js": "/react-pdf/static/js/runtime~main.c32f759a.js",
+  "runtime~main.js.map": "/react-pdf/static/js/runtime~main.c32f759a.js.map",
+  "static/css/main.e2ba8f57.chunk.css.map": "/react-pdf/static/css/main.e2ba8f57.chunk.css.map",
+  "index.html": "/react-pdf/index.html",
+  "precache-manifest.c374ee1c9d8ba1b656cf3e3894c24819.js": "/react-pdf/precache-manifest.c374ee1c9d8ba1b656cf3e3894c24819.js",
+  "service-worker.js": "/react-pdf/service-worker.js"
 }
