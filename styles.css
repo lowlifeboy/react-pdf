@@ -1,0 +1,87 @@
+body {
+  background: #eee;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  margin: 10px 0;
+  float: left;
+}
+
+br {
+  display: none;
+}
+
+input {
+  float: right;
+  margin: 5px 0;
+}
+
+.react-pdf__Document {
+  margin-bottom: 100px;
+}
+
+.react-pdf__Page {
+  margin-top: 50px;
+}
+
+.react-pdf__Page__annotations {
+  display: none;
+}
+
+button {
+  height: 28px;
+  line-height: 16px;
+}
+
+.navigation {
+  display: block;
+  width: 100%;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  padding: 10px 20px;
+  box-shadow: 0 -2px 2px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+.navigation div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation p {
+  margin: 0 20px;
+}
+
+.miniaturesContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.miniaturesContainer > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.miniatures {
+  padding: 0 10px;
+}
+
+.previewNumber {
+  color: #000;
+  margin-top: 10px;
+}
